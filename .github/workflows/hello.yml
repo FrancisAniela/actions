@@ -1,4 +1,4 @@
-nname: Python
+name: Python
 on: 
   push:
     branches: ["main"]
